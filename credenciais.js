@@ -1,7 +1,7 @@
 
 const user = {
-    name: "nelson.santos",
-    password: "Lua 3m 2050"
+    name: "", //seu nome de usuário para início de seção no pc da SISTEC
+    password: "" //sua palavra-passe para início de seção no pc da SISTEC
 }
 
 export default user;
